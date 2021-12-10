@@ -1,6 +1,6 @@
 # Pewlett-Hackard-Analysis
 ## Project Overview
-The purpose of this projet was to assist Pewlett-Hackard with compiling employee data from multiple source files in order to create an employee database that can assist the company in preparing for a potential wave of retirements. With the assistance from our database, Pewlett-Hackard will be able to determine the number of employees eligible for retirement, the total job vacancies that would need to be backfilled, and the amount of young employees eligible for the Mentorship Program.
+The purpose of this project was to assist Pewlett-Hackard with compiling employee data from multiple source files in order to create an employee database that can assist the company in preparing for a potential wave of retirements. With the assistance from our database, Pewlett-Hackard will be able to determine the number of employees eligible for retirement, the total job vacancies that would need to be backfilled, and the amount of young employees eligible for the Mentorship Program.
 
 ## Results
 ### Employees Eligible for Retirement
